@@ -2,10 +2,8 @@
 
 Thanks for checking out my Github. I'm Elier Hernandez, a Full Stack Web Developer. I Spend most of time coding projects or learning new skills.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
-[![Chrome Badge](https://img.shields.io/badge/-elierhernandez.com-16a188?style=flat&labelColor=16a188&logo=googlechrome&logoColor=white)](https://elierhernandez.netlify.app/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Elier_Hernandez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elier-hernandez-a16906161/) 
 [![Mail Badge](https://img.shields.io/badge/-elierporto@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elierporto@gmail.com)
 
 - :computer: Most used line of code `console.log()"`
