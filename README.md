@@ -1,6 +1,6 @@
 ## Hi I'm Elier!
 
-Thanks for checking out my Github. I'm Elier Hernandez, a Full Stack Web Developer. I Spend most of time coding projects or learning new skills.
+Thanks for checking out my Github. I'm Elier Hernandez, a Full Stack Web Developer. I spend most of my time coding projects or learning new skills.
 
 :mailbox: Reach out to me!
 
