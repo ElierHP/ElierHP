@@ -27,4 +27,4 @@ Thanks for checking out my Github. I'm Elier Hernandez, a Full Stack Web Develop
 
 #### More About Me
 
-I love creating things that live on the internet. My interest in the web started back in 2019 as a designer when I started creating user interfaces and experiences for the web. I learned Web Development in order to bring my designs to life, and fell in love with it. Now I dedicate myself full time to development, it's one of my great passions.
+I love creating things that live on the internet. My interest in the web started back in 2018 as a designer when I started creating user interfaces and experiences for the web. I learned Web Development in order to bring my designs to life, and fell in love with it. Now I dedicate myself full time to development, it's one of my great passions.
